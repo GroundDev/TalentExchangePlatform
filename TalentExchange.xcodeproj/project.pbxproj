@@ -20,6 +20,7 @@
 		A79017F727FDEF0D00D1E316 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A79017FA27FDEF0D00D1E316 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A790180127FDEF5500D1E316 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A790180227FDEFD100D1E316 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		A79017E727FDEF0B00D1E316 = {
 			isa = PBXGroup;
 			children = (
+				A790180227FDEFD100D1E316 /* .gitignore */,
 				A790180127FDEF5500D1E316 /* README.md */,
 				A79017F227FDEF0B00D1E316 /* TalentExchange */,
 				A79017F127FDEF0B00D1E316 /* Products */,
