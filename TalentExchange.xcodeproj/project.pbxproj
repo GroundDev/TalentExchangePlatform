@@ -37,8 +37,8 @@
 		A79017E727FDEF0B00D1E316 = {
 			isa = PBXGroup;
 			children = (
-				A790180227FDEFD100D1E316 /* .gitignore */,
 				A790180127FDEF5500D1E316 /* README.md */,
+				A790180227FDEFD100D1E316 /* .gitignore */,
 				A79017F227FDEF0B00D1E316 /* TalentExchange */,
 				A79017F127FDEF0B00D1E316 /* Products */,
 			);
