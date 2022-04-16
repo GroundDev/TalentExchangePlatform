@@ -1,7 +1,48 @@
-#  Talent Exchange Platform
 
-### 1. Introduction
-- 재능교환플랫폼
+![Logo](https://dummyimage.com/1000x300/000/fff.png)
 
-- 이 프로젝트는 MoonShot에 있는 최종 결과용 repo를 GroundDev로 fork해온 겁니다.
-- 즉 개인 repo에 올라갈 예정이니, 맘껏 해봐라 그라운드
+
+# :iphone: Project Title
+
+A brief description of what this project does and who it's for
+
+
+## :pushpin: Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## :people_hugging: Authors
+
+- [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
+
+
+## :framed_picture: Demo
+
+Insert gif or link to demo
+
+
+## :fireworks: Screenshots
+
+![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
+![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
+![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
+![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
+![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
+![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
+
+
+## :sparkles: Skills & Tech Stack
+swiftUI ...
+
+## :books: Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## :lock_with_ink_pen: License
+
+[MIT](https://choosealicense.com/licenses/mit/)
