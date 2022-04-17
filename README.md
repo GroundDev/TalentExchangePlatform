@@ -27,7 +27,7 @@ Insert gif or link to demo
 
 ## :fireworks: Screenshots
 
-![Pasted Graphic](https://user-images.githubusercontent.com/103012763/163706951-9009f200-6037-4aa5-9f6c-5de95177560b.png)
+![home](https://user-images.githubusercontent.com/103012763/163707250-bf8cc59d-6a0b-435c-b0e8-bd490438bc96.png)
 ![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
 ![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
 ![App Screenshot](https://dummyimage.com/250x500/000/fff.png)
