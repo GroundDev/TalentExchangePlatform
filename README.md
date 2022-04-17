@@ -10,20 +10,15 @@ Connect people based on their background(hobby, talent, interest) to solve perva
 
 ## :pushpin: Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Log in & registration
+- Search
+- Chat
+- Profile
 
 
 ## :people_hugging: Authors
 
 - [@Avery](https://github.com/chaneeii) | [@Asher](https://github.com/Asher3576) | [@Grizzly](https://github.com/Lim-YongKwan) | [@Ground](https://github.com/GroundDev) | [@Jay](https://github.com/cogan99) | [@Sohni](https://github.com/HeejiSohn)
-
-
-## :framed_picture: Demo
-
-Insert gif or link to demo
 
 
 ## :fireworks: Screenshots
@@ -36,6 +31,8 @@ Insert gif or link to demo
 ![Chat](https://user-images.githubusercontent.com/103012763/163714544-faed57f5-94c4-4a4d-a2db-8407e5b2e29a.png)
 
 ## :sparkles: Skills & Tech Stack
-swiftUI ...
+swiftUI
+Firebase
+JSON
 
 [MIT](https://choosealicense.com/licenses/mit/)
