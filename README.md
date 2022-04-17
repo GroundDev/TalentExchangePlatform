@@ -17,7 +17,7 @@ A brief description of what this project does and who it's for
 
 ## :people_hugging: Authors
 
-- [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
+- [@Avery](https://github.com/chaneeii) | [@Asher](https://github.com/Asher3576) | [@Grizzly](https://github.com/Lim-YongKwan) | [@Ground](https://github.com/GroundDev) | [@Jay](https://github.com/cogan99) | [@Sohni](https://github.com/HeejiSohn)
 
 
 ## :framed_picture: Demo
